@@ -45,11 +45,22 @@ This is a Product Management Dashboard application built with React and Vite. It
     http://localhost:5173/
 
 5. Project Structure
-components: Contains reusable components such as ProductTable and AddProductDialog.
-pages: Contains the main page of the application, ProductDashboard.
-types: Contains TypeScript type definitions.
-src/vite-env.d.ts: Contains type definitions for environment variables.
 
-6. Environment Variables
+   components: Contains reusable components such as ProductTable and AddProductDialog.
+   
+   pages: Contains the main page of the application, ProductDashboard.
+   
+   types: Contains TypeScript type definitions.
+   
+   src/vite-env.d.ts: Contains type definitions for environment variables.
+
+7. Environment Variables
 Ensure you have the following environment variables set in your .env file:
-REACT_APP_API_URL=http://localhost:5276/api
+
+   REACT_APP_API_URL=http://localhost:5276/api
+
+
+<img width="1440" alt="Screenshot 2025-03-24 at 11 50 40" src="https://github.com/user-attachments/assets/33c85004-be7e-4bb7-ae30-96bd9413fca0" />
+
+<img width="1437" alt="Screenshot 2025-03-24 at 11 52 32" src="https://github.com/user-attachments/assets/447882e0-568d-4944-96c8-e6bc5c5a9086" />
+
